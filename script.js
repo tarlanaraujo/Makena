@@ -166,3 +166,4 @@ function renderWifiQRCode(container, ssid, password, security = "WPA") {
 
   container.appendChild(qrImg);
 }
+

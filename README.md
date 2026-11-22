@@ -108,3 +108,4 @@ Para hotéis de alto padrão como o Makena, **evite cartões de plástico branco
 
 ### 2. O Pitch de Vendas para os Donos do Makena:
 > *"Hoje, a cada 10 clientes satisfeitos que saem do hotel, apenas 1 lembra de abrir o Google ou TripAdvisor para avaliar. Ao mesmo tempo, todo cliente senta na mesa e pede a senha do Wi-Fi. Nós instalamos um card discreto e sofisticado em cada mesa. O hóspede encosta o celular para pegar o Wi-Fi sem precisar digitar senha, e na mesma tela dá 5 estrelas no Google e no TripAdvisor em 10 segundos. Isso sobe o Makena para o #1 de Icaraizinho nos rankings, atrai mais turistas e diminui a dependência de pagar 18% de comissão para a Booking.com."*
+
